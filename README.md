@@ -1,1 +1,1 @@
-# image_editor.py
+This Project shows the siimple implementation of Pillow library of Python mainly used for image editing and tkinter which is basically used to generate interactive GUI's in python. The implementation f some basic filters/ enhancers can be easily seen in the code. The code is used friendly and also handles exceptions/invalid input from user. 

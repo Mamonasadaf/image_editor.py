@@ -2,9 +2,8 @@ This Project shows the simple implementation of Pillow library of Python mainly 
 [To run this code intall python from link]+(https://www.python.org/downloads/)
 [for pycharm go to website]+(https://www.jetbrains.com/pycharm/download/?section=windows)
 
-'''pip install tkinter
+```markdown
+pip install tkinter
+pip install pillow
 
-'''pip install pillow
-
-Copy paste code, and enjoy..
 

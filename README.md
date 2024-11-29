@@ -38,9 +38,6 @@
 - **Friendly Notifications**  
   The app provides helpful error messages if an action requires an uploaded image or valid input.  
 
-- **About Section**  
-  Learn about the app's purpose and basic implementation details.  
-
 ## Technologies Used  
 - **Tkinter**: For creating the GUI interface.  
 - **Pillow (PIL)**: For image editing and manipulation.  
